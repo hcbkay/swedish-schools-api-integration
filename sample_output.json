@@ -1,0 +1,71 @@
+{
+  "school_dropdown_options": [
+    {
+      "label": "Viggbyskolan",
+      "value": "12345678"
+    },
+    {
+      "label": "Lundaskolan (Stockholm)",
+      "value": "23456789"
+    },
+    {
+      "label": "Lundaskolan (Göteborg)",
+      "value": "34567890"
+    },
+    {
+      "label": "Parkskolan (Stockholm)",
+      "value": "45678901"
+    },
+    {
+      "label": "Parkskolan (Malmö)",
+      "value": "56789012"
+    },
+    {
+      "label": "Kyrkskolan (Uppsala)",
+      "value": "67890123"
+    },
+    {
+      "label": "Kyrkskolan (Linköping)",
+      "value": "78901234"
+    },
+    {
+      "label": "Anpassad Grundskola (Västerås)",
+      "value": "89012345"
+    },
+    {
+      "label": "Anpassad Grundskola (Örebro)",
+      "value": "90123456"
+    },
+    {
+      "label": "Hagaskolan",
+      "value": "01234567"
+    },
+    {
+      "label": "Strandskolan (Göteborg)",
+      "value": "11234567"
+    },
+    {
+      "label": "Strandskolan (Helsingborg)",
+      "value": "21234567"
+    },
+    {
+      "label": "Montessoriskolan",
+      "value": "31234567"
+    },
+    {
+      "label": "Waldorfskolan",
+      "value": "41234567"
+    },
+    {
+      "label": "Tallbackaskolan",
+      "value": "51234567"
+    }
+  ],
+  "total_schools": 5184,
+  "metadata": {
+    "source": "Skolverket API",
+    "description": "All active Swedish schools with locality disambiguation for duplicates",
+    "duplicates_resolved": 420,
+    "data_quality": "99.92%"
+  }
+}
